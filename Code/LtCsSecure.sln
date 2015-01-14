@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LtCsSecure", "LtCsSecure\LtCsSecure.vbproj", "{BF7B891C-20D5-4F69-965D-9545B0FCF60A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LTCsSecureSrv", "LTCsSegureSrv\LTCsSecureSrv.vbproj", "{BA1A3732-0DAC-4F54-A712-C16E12D663C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7B891C-20D5-4F69-965D-9545B0FCF60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B891C-20D5-4F69-965D-9545B0FCF60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B891C-20D5-4F69-965D-9545B0FCF60A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF7B891C-20D5-4F69-965D-9545B0FCF60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B891C-20D5-4F69-965D-9545B0FCF60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1A3732-0DAC-4F54-A712-C16E12D663C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1A3732-0DAC-4F54-A712-C16E12D663C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1A3732-0DAC-4F54-A712-C16E12D663C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1A3732-0DAC-4F54-A712-C16E12D663C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

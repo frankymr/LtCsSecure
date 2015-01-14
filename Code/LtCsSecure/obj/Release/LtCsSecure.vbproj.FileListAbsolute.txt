@@ -1,0 +1,13 @@
+C:\latch\LtCsSecure\LtCsSecure\bin\Release\LtCsSecure.exe.config
+C:\latch\LtCsSecure\LtCsSecure\bin\Release\LtCsSecure.exe
+C:\latch\LtCsSecure\LtCsSecure\bin\Release\LtCsSecure.pdb
+C:\latch\LtCsSecure\LtCsSecure\bin\Release\LtCsSecure.xml
+C:\latch\LtCsSecure\LtCsSecure\bin\Release\LatchSDK.dll
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\WindowsApplication1.FrmPrincipal.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\WindowsApplication1.LTCsSegureSrv.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\WindowsApplication1.Resources.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\WindowsApplication1.ProjectInstaller.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\LtCsSecure.vbproj.GenerateResource.Cache
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\LtCsSecure.exe
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\LtCsSecure.xml
+C:\latch\LtCsSecure\LtCsSecure\obj\Release\LtCsSecure.pdb

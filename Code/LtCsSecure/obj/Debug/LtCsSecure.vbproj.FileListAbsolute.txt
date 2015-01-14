@@ -1,0 +1,14 @@
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\LtCsSecure.exe.config
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\LtCsSecure.exe
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\LtCsSecure.pdb
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\LtCsSecure.xml
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\LatchSDK.dll
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.vbproj.GenerateResource.Cache
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.exe
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.xml
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.pdb
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.vbprojResolveAssemblyReference.cache
+C:\latch\LtCsSecure\LtCsSecure\bin\Debug\rtaGlassEffectsLib.dll
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.FrmPrincipal.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.Resources.resources
+C:\latch\LtCsSecure\LtCsSecure\obj\Debug\LtCsSecure.Acercade.resources
